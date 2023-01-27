@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Jual Gazebo	</title>
-	<atom:link href="/comments/feed?simply_static_page=615" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Jasa Pasang &#38; Jual Gazebo / Saung</description>
-	<lastBuildDate>Wed, 25 Jan 2023 02:48:28 +0000</lastBuildDate>
+	<description>Jasa Pasang &#38; Jual Gazebo/Saung</description>
+	<lastBuildDate>Fri, 27 Jan 2023 05:12:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
